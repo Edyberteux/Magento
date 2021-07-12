@@ -4,3 +4,4 @@ Php Magento and Slack affairs
 2nd message from git Edyberteux/Magento
 3rd message from git Edyberteux/Magento
 4th in Readme.md 
+5th change in Feature
